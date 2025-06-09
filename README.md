@@ -11,9 +11,11 @@ Cristian Paolucci- cristianodixit@gmail.com
 
 Materia: Programación I
 
-Profesor:
+Profesor: Julieta Trapé
 
-Fecha de entrega:
+Tutor: Sofia Raia
+
+Fecha de entrega: 9 de junio
 
 Comisión: 4
 
